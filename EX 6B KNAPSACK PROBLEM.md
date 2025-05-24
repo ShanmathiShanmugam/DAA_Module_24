@@ -43,8 +43,8 @@ To demonstrate a python program using dynamic programming for 0/1 knapsack probl
 ## Program:
 ```
 To implement the program for 0/1 knapsack problem.
-Developed by: VAISHALI BALAMURUGAN
-Register Number: 212222230164
+Developed by: S.SHANMATHI
+Register Number: 212222100049
 ```
 ```PYTHON
 def knapSack(W, wt, val, n):
